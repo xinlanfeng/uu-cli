@@ -5,15 +5,15 @@
 
 ### 1. `uu-cli --help `  获取命令提示
 
-| Options                 | describe     |
-| ----------------------- | ------------ |
-| `uu-cli -V | --version` | 获取版本号   |
-| `uu-cli -h | --help`    | 获取命令提示 |
+| Options                | describe     |
+| ---------------------- | ------------ |
+| uu-cli -V \| --version | 获取版本号   |
+| uu-cli -h \| --help    | 获取命令提示 |
 
-| Commands                           |                   |
-| ---------------------------------- | ----------------- |
-| `uu-cli create | c <project name>` | 拉取模板创建项目  |
-| `*`                                | command not found |
+| Commands                          |                   |
+| --------------------------------- | ----------------- |
+| uu-cli create \| c <project name> | 拉取模板创建项目  |
+| *                                 | command not found |
 
 
 
